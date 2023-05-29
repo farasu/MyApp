@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+}
+table tr td{
+    border: 0.3px solid gray;
+    padding: 1px 5px;
+}
+.user_table_title{
+    font-size: large;
+    color: black;
+    font-weight: bold;
+    width: 100%;
+    background-color: lightblue;
+}
+.user_table_title th{
+}
